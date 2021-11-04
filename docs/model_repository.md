@@ -255,7 +255,7 @@ repository for a ONNX model contained in a directory is:
 
 ### TorchScript Models
 
-An TorchScript model is a single file that by default must be named
+A TorchScript model is a single file that by default must be named
 model.pt. This default name can be overridden using the
 *default_model_filename* property in the [model
 configuration](model_configuration.md). It is possible that some
